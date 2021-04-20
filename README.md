@@ -1,5 +1,7 @@
 # modulabs TensorFlow Tutorials for version 2.0
 
+'''asdasdasd'''
+
 모두의연구소 풀잎스쿨 5기 **Flow me to the moon** 에서 활동하는 연구원들이
 정리한 내용입니다.
 아래의 참고자료를 기반으로 작성하고 있습니다.
